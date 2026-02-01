@@ -1,0 +1,86 @@
+.image-list1 {
+margin-bottom: 50px;
+display: flex;
+justify-items: center;
+flex-direction: column row;
+flex-wrap: wrap;
+align-items: center;
+width: 90%;
+height: auto;
+border: none;
+border-radius: 10px;
+}
+.image-list2 {
+margin-top: 160px; 
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+width: 80%;
+border: 8px none rgb(240, 216, 78, 0.89);
+border-style: inset;
+}
+#text-box {
+margin-top: 160px;
+display: flex;
+flex-direction: column;
+justify-content: flex-end;
+width: 80%;
+border: 8px none rgb(240, 216, 78, 0.89);
+border-style: inset;
+height: 30vh;
+border: 10px double rgb(255, 255, 255);
+background-color: rgb(27, 114, 65);
+}
+li {
+  list-style: none;
+}
+#text-box li {
+  text-align: center;
+  padding-bottom: 40px;
+  gap: 20px;
+}
+.image-list2 img {
+  padding: 0;
+}
+#story-box {
+  margin-top: 160px;
+  width: 100%;
+  height: auto;
+  display: flex;
+  border: 3px solid white;
+  background-color: rgb(27, 114, 65);
+  padding: 50px;
+}
+#story-box1 {
+ margin-top: 200px;
+  width: 100%;
+  height: auto;
+  display: flex;
+  border: 3px solid white;
+  background-color: rgb(27, 114, 65);
+  padding: 50px; 
+}
+#story-box2 {
+  margin-top: 200px;
+  width: 100%;
+  height: auto;
+  display: flex;
+  border: 3px solid white;
+  background-color: rgb(27, 114, 65);
+  padding: 50px; 
+}
+p {
+  color: white;
+}
+
+  
+.tab2_img {
+  margin-top: 200px;
+}
+/*남은 작업
+줄거리 페이지 내용
+캐릭터 페이지 수정
+시크릿 작성
+*/
+
+
